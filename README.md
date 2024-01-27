@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)]
+![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
 <h1 align="center">Hi 👋, I'm Ratnam Dhurandhar</h1>
 <h3 align="center">"And I Can Code"</h3>
 <img align="right" alt="Coding" width="400" src="http://bestanimations.com/Computers/funny-homer-computer-animated-gif-38.gif">
