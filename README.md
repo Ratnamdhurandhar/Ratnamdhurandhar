@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring Boot , React , React Native**
 
-- 👨‍💻 All of my projects are available at [https://ratnamdhurandhar.github.io/Portfolio/](https://ratnamdhurandhar.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://ratnamdhurandhar.github.io/Portfolio-main/](https://ratnamdhurandhar.github.io/Portfolio-main/)
 
 - 💬 Ask me about **Java , JavaScript ,Html , CSS**
 
