@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot , React , React Native**
+- 🌱 I’m currently learning **Spring Boot , Dockerz , Microservices**
 
 - 👨‍💻 All of my projects are available at [https://ratnamdhurandhar.github.io/Portfolio-main/](https://ratnamdhurandhar.github.io/Portfolio-main/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ratnamofficial17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17mYm6pEjRLP4A0WmrzzDFjbS6qBFvXCU/view](https://drive.google.com/file/d/17mYm6pEjRLP4A0WmrzzDFjbS6qBFvXCU/view)
+- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1u9X1R5gLte09IVuZm4xUeGYhIyr2cODK/view?usp=drive_link)
 
 - ⚡ Fun fact **"I use sarcasm in comments "**
 
